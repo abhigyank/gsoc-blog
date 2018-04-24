@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Blog for GSoC '18 with Zulip
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am  Abhigyan Khaund, a CSE sophomore at Indian Institute of Technology, Mandi, India.
+This is a blog to maintain my progress in doing the project on [Zulip Desktop](https://github.com/zulip/zulip-electron/) as a part of GSoC'18. 
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
